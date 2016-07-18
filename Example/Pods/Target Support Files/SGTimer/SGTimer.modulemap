@@ -1,0 +1,6 @@
+framework module SGTimer {
+  umbrella header "SGTimer-umbrella.h"
+
+  export *
+  module * { export * }
+}

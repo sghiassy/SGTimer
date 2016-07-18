@@ -1,0 +1,6 @@
+framework module Pods_SGTimer_Tests {
+  umbrella header "Pods-SGTimer_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
